@@ -1,6 +1,0 @@
-export const config = {
-  username: process.env.USERNAME || 'username',
-  password: process.env.PASSWORD || 'password',
-  dbHost: process.env.DB_HOST || 'localhost',
- 
-};
